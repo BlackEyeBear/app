@@ -1,6 +1,13 @@
+/*
+ * @Author: xionglei
+ * @Date: 2018-11-02 13:53:22
+ * @LastEditors: xionglei
+ * @LastEditTime: 2018-11-02 13:53:22
+ * @Description: 项目唯一入口
+ */
+
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
     <router-view/>
   </div>
 </template>
